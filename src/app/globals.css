@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+@theme {
+  --color-edu-sky: #C3EBFA;
+  --color-edu-sky-light: #EDF9FD;
+  --color-edu-purple: #CFCEFF;
+  --color-edu-purple-light: #F1F0FF;
+  --color-edu-yellow: #FAE27C;
+  --color-edu-yellow-light: #FEFCE8;
+}
